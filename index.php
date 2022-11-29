@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Soy un index 😁</h1>
-    <h1>Soy un index 😁😘</h1>
+    <h1>Soy un index 😘</h1>
 </body>
 </html>
